@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "WPF_LAB1/1.0.0": {
+        "dependencies": {
+          "DataLibrary": "1.0.0"
+        },
+        "runtime": {
+          "WPF_LAB1.dll": {}
+        }
+      },
+      "DataLibrary/1.0.0": {
+        "runtime": {
+          "DataLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WPF_LAB1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DataLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
