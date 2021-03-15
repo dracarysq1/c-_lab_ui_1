@@ -39,10 +39,7 @@ namespace DataLibrary
         {
             public const string ChangedAfterSaveName = "MCChgAfterSave";
             public const string CountName = "MCCount";
-            public const string MaxVecLenName = "MCMaxVecLen";
-            public const string ElemWithMaxVecLenName = "MCElemWithMaxVecLen";
-            public const string MoreThanOnceName = "MCMoreThanOnce";
-            public const string LstElemsNames = "MCLst";
+            
         }
     }
 }
