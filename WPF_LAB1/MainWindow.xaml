@@ -89,11 +89,11 @@
                           Click="on_AddDefaults_btn_Click">
                 </MenuItem>
                 <MenuItem Name="AddDefaultDataCollection_btn" 
-                          Header="Add Default V1DataCollection"
+                          Header="Add Default V3DataCollection"
                           Click="on_AddDefDataCollection_btn_Click">
                 </MenuItem>
                 <MenuItem Name="AddDefaultDataOnGrid_btn" 
-                          Header="Add Default V1DataOnGrid"
+                          Header="Add Default V3DataOnGrid"
                           Click="on_AddDefDataOnGrid_btn_Click">
                 </MenuItem>
                 <MenuItem Name="AddElemFromFile_btn" 
