@@ -272,7 +272,7 @@ namespace DataLibrary
             return query;
         }
 
-        /* Метод возвращает элементы коллекции MainCollection, которые имеют тип V1DataOnGrid */
+        /* Метод возвращает элементы коллекции MainCollection, которые имеют тип V3DataOnGrid */
         public IEnumerable<V3DataOnGrid> getOnlyDataOnGridElems()
         {
             var query = from item in this.list
