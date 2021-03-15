@@ -309,7 +309,7 @@ namespace DataLibrary
         {
             get
             {
-                /* Получаем объекты DataItem из запроса к объектам V1DataCollection */
+                /* Получаем объекты DataItem из запроса к объектам V3DataCollection */
                 IEnumerable<DataItem> res =
                     (from elem in (from item in this.list
                                    where item is V3DataCollection
