@@ -1,6 +1,0 @@
-C:\Users\91930\source\repos\DataLibrary\obj\Debug\DataLibrary.csproj.CoreCompileInputs.cache
-C:\Users\91930\source\repos\DataLibrary\bin\Debug\DataLibrary.dll
-C:\Users\91930\source\repos\DataLibrary\bin\Debug\DataLibrary.pdb
-C:\Users\91930\source\repos\DataLibrary\obj\Debug\DataLibrary.dll
-C:\Users\91930\source\repos\DataLibrary\obj\Debug\DataLibrary.pdb
-C:\Users\91930\source\repos\DataLibrary\obj\Debug\DataLibrary.csprojAssemblyReference.cache
